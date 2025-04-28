@@ -5,7 +5,9 @@ Proyecto de ciencia de datos para predecir retrasos en vuelos comerciales, con e
 
 ## 🌟 Dashboard Interactivo
 Explorar las relaciones clave entre variables en **[Dashboard PowerBI](https://nachols1986.github.io/infovis/airport_delays.html)**  
-*(Visualización dinámica de patrones de retrasos, clima y operaciones)*
+*(Visualización dinámica de patrones de retrasos, clima y operaciones)*  
+
+📥 Descargar archivo editable (.pbix): [Enlace de descarga](https://itba2-my.sharepoint.com/:u:/g/personal/jlopezsa_itba_edu_ar/EWH-ft8yTYlPiqfzdmCFbDQBZGHZ3Ubr86yDNaPjP-X-uQ?e=MjtloW)
 
 ## 🗃️ Dataset
 - **Fuente**: [Kaggle - 2019 Airline Delays and Cancellations](https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations)
