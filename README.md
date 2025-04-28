@@ -28,11 +28,14 @@ Explorar las relaciones clave entre variables en **[Dashboard PowerBI](https://n
 3. **Flota**:
    - Aviones 11-15 años: peak de retrasos (19.9%)
 
-## 🤖 Modelado Predictivo
-| Modelo          | Recall | Precisión | AUC  | Tiempo |
-|-----------------|--------|-----------|------|--------|
-| Random Forest   | 66.0%  | 28.8%     | 0.64 | 586s   |
-| XGBoost         | 8.2%   | 68.6%     | 0.54 | 11s    |
-| Regresión Log.  | 1.3%   | 52.8%     | 0.51 | 134s   |
+## 🤖 Modelos Implementados
+| Modelo          | Recall | Precisión | AUC  |
+|-----------------|--------|-----------|------|
+| Random Forest   | 66.0%  | 28.8%     | 0.64 |
+| XGBoost         | 8.2%   | 68.6%     | 0.54 |
+| Regresión Log.  | 1.3%   | 52.8%     | 0.51 |
 
-**Insight**: Random Forest detecta 3/4 retrasos, pero con muchos falsos positivos.
+## 📊 Resultados Clave
+- **Mejor modelo**: Random Forest (mejor balance recall/precisión)
+- **Desafío principal**: Desbalance de clases (81% no retrasos)
+- **Hallazgo crítico**: Variables climáticas son predictores clave
