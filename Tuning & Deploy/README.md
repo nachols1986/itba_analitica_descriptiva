@@ -380,6 +380,8 @@ El *feature engineering* es el proceso de crear, transformar y seleccionar varia
 
 ### 📊 Encoding de Variables Categóricas
 
+![image.png](1698513739094.jpg)
+
 1. **One-Hot Encoding** (**`pd.get_dummies`**, **`OneHotEncoder`**):
     - **Qué hace:** Crea una columna binaria (0/1) por cada categoría.
     - **Ejemplo:** País → **`país_Argentina`**, **`país_Brasil`**, **`país_Chile`**.
